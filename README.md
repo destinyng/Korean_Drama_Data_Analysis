@@ -1,0 +1,2 @@
+# Korean_Drama_Data_Analysis-----SQL
+In this project, I conducted data cleaning and preparation on a dataset of Korean dramas using SQL. This involved handling duplicates, addressing missing values in various columns, and modifying certain columns for consistency and analysis. Specifically, I cleaned and standardized the "director," "screenwriter," "duration," "aired_on," "org_net," and "synopsis" columns, created a new "content_rating" column, and converted date columns to the proper format. The dataset is now cleaned and ready for further analysis or visualization.
